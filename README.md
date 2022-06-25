@@ -1,6 +1,17 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Henrique and my nickname is "joaoh224488"!
 
+## About me:
+- :computer: Studying Data Science and Artificial Intelligence at UFPB
+- :books: Open to new challenges and opportunities
+- :open_book: Currently practicing Operational Research and Data Science skills
+
+## Langs:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Ba-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
 
 <div>
 <a href="https://github.com/joaoh224488">
