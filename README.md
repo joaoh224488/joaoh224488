@@ -4,16 +4,19 @@
 - :books: Open to new challenges and opportunities;
 - :open_book: Currently practicing Operational Research and Data Science skills.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Ba-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/joaoh224488">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoh224488&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh224488&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Ba-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 <div> 
