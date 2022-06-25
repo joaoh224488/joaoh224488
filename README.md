@@ -2,9 +2,9 @@
 ### My name is Henrique and my nickname is "joaoh224488"!
 
 ## About me:
-- :computer: Studying Data Science and Artificial Intelligence at UFPB
-- :books: Open to new challenges and opportunities
-- :open_book: Currently practicing Operational Research and Data Science skills
+- :computer: Studying Data Science and Artificial Intelligence at UFPB;
+- :books: Open to new challenges and opportunities;
+- :open_book: Currently practicing Operational Research and Data Science skills.
 
 ## Langs:
 <div style="display: inline_block"><br>
@@ -19,17 +19,12 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoh224488&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh224488&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--
-**joaoh224488/joaoh224488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<div> 
+  <a href="https://instagram.com/joaoh224488" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaoh224488@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https:/wwwlinkedincominjo%C3%A3o-henrique-ara%C3%BAjo-pereira-369484205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
